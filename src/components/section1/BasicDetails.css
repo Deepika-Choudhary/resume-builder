@@ -1,0 +1,42 @@
+.form {
+  display: flex;
+  margin-left: 3rem;
+}
+
+.left_form {
+  margin-left: 3rem;
+  /* width: 40vh; */
+}
+
+.left_form input {
+  width: 50vh;
+  height: 4vh;
+  margin-bottom: 2rem;
+  border: 1px solid #a4b0be;
+  border-radius: 0.2rem;
+}
+
+.right_form {
+  margin-left: 3rem;
+}
+
+/* #data {
+  display: flex;
+} */
+
+.right_form input {
+  width: 70vh;
+  height: 18vh;
+  border: 1px solid #a4b0be;
+  border-radius: 0.2rem;
+}
+
+.left_form button {
+  background-color: #079992;
+  border: none;
+  border-radius: 0.4rem;
+  width: 4rem;
+  height: 2rem;
+  color: white;
+  margin-top: 1rem;
+}

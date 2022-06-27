@@ -1,0 +1,30 @@
+/* .nav {
+} */
+
+.logo {
+  padding: 0.5rem;
+  display: flex;
+}
+
+.btns {
+  /* display: flex; */
+  float: right;
+  margin-left: 60rem;
+}
+
+.import_btn {
+  margin: 0.5rem;
+  width: 12vh;
+  padding: 0.4rem;
+  background-color: white;
+  border-radius: 0.4rem;
+}
+
+.export_btn {
+  margin: 0.5rem;
+  width: 12vh;
+  padding: 0.4rem;
+  background-color: #eb3b5a;
+  border: none;
+  border-radius: 0.4rem;
+}

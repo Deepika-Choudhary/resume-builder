@@ -1,0 +1,10 @@
+.UploadPhoto {
+}
+
+.UploadPhoto img {
+  display: flex;
+  width: 25vh;
+  height: 25vh;
+  border-radius: 50%;
+  background-color: #dfe6e9;
+}
